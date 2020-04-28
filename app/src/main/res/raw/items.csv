@@ -1,0 +1,438 @@
+0,אדמונית החורש בהר הלל,1,1,4.0,גליל מערבי,צפת ורכס הרי מירון,True,True,True,True,True,True,True,True,False,False,False,False,False,False,True,False,False,False
+
+1,אילת וחוף אלמוג: לטייל ולצלול,1,0,2.0,דרום הנגב והרי אילת,אילת והרי אילת ,True,True,True,True,True,False,True,True,False,False,False,False,True,False,False,True,False,False
+
+2,אירוס הארגמן בגבעת חומרה,1,0,1.0,מישור החוף וגוש דן,חולון פתח תקווה וגוש דן,False,False,False,True,True,False,True,True,False,False,False,True,False,False,True,False,False,False
+
+3,אלוני אבא ובית לחם הגלילית,1,0,2.0,גליל תחתון עמקים וגלבוע,נצרת עפולה ועמק יזרעאל,True,True,True,True,True,False,True,True,True,False,False,True,False,False,True,False,False,False
+
+4,אמות המים לקיסריה - פארק אלונה ועוד אטרקציות באזור,0,0,10.0,השרון,חדרה וקיסריה,True,True,True,True,True,False,True,False,True,False,False,False,False,False,True,True,False,False
+
+5,אנדרטת גדוד 77 - עמק הבכא,1,0,0.0,גליל עליון אצבע הגליל והגולן,רמת הגולן,True,True,True,True,True,False,False,True,False,False,False,True,False,False,False,False,False,False
+
+6,אתרים מקודשים במערב הכנרת,0,0,2.0,גליל תחתון עמקים וגלבוע,טבריה כנרת והעמקים,True,True,True,True,True,False,True,True,True,False,False,True,False,False,False,False,False,False
+
+7,בורות לוץ,0,1,10.0,מרכז הנגב והמכתשים,nan,True,True,True,True,True,True,False,True,False,False,False,False,False,False,True,False,False,False
+
+8,בעקבות אוצרות המקדש בנחל עכברה,1,1,10.0,גליל מערבי,צפת ורכס הרי מירון,True,True,True,True,True,True,False,False,False,False,False,False,False,False,False,False,False,False
+
+9,בעקבות אירוס הגלבוע להר ברקן,1,0,2.0,גליל תחתון עמקים וגלבוע,הגלבוע ועמק המעיינות,True,True,True,True,True,False,True,True,True,False,False,False,False,False,True,False,False,False
+
+10,בעקבות משמרות הכהונה בגליל,1,0,3.0,גליל תחתון עמקים וגלבוע,נצרת עפולה ועמק יזרעאל,True,True,True,True,True,False,False,False,True,False,False,True,False,False,False,False,False,False
+
+11,בקעת כורסי נחל עין-גב וסוסיתא,0,1,3.0,גליל עליון אצבע הגליל והגולן,רמת הגולן,True,True,True,True,True,False,True,True,False,False,False,False,False,False,True,False,False,False
+
+12,בקעת תמנע,1,1,0.0,דרום הנגב והרי אילת,goodWalkers,True,True,True,True,True,False,False,True,False,False,False,False,False,False,False,False,False,False
+
+13,בתי אפנדים בגליל המערבי,1,1,2.0,גליל מערבי,עכו נהריה וראש הנקרה,True,True,True,True,True,False,True,False,True,True,False,True,False,True,False,False,False,False
+
+14,גבעות מע'אר,1,0,4.0,השפלה,ראשון לציון רחובות ונס ציונה,False,True,False,True,True,False,False,True,True,False,False,False,False,False,True,False,False,False
+
+15,גבעת התורמוסים - תל שוכה,0,1,2.0,הרי ירושלים ואזור בית שמש,nan,False,True,False,True,True,False,True,True,False,False,False,False,False,True,True,False,False,False
+
+16,גן לאומי עיר דוד והסביבה: אבנים מספרות היסטוריה,1,1,3.0,ירושלים,nan,True,True,True,True,True,False,False,False,False,True,False,False,False,True,False,False,False,False
+
+17,דרך מתקני המצור הרומי באזור מצדה,0,2,12.0,ים המלח ומדבר יהודה,דרום ים המלח ומדבר יהודה,True,True,True,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False
+
+18,הבניאס נחל דן ונחל שניר: טיול אל מקורות הירדן,0,0,3.0,גליל עליון אצבע הגליל והגולן,החרמון ומקורות הירדן,True,True,True,True,True,False,True,True,False,False,False,False,False,False,True,True,False,False
+
+19,הבניאס: נחל חרמון,1,1,6.0,גליל עליון אצבע הגליל והגולן,החרמון ומקורות הירדן,True,True,True,True,False,False,False,False,False,False,True,False,False,False,False,True,False,False
+
+20,הזאכי – שפך נחל משושים,1,1,5.0,גליל תחתון עמקים וגלבוע,טבריה כנרת והעמקים,True,True,True,True,True,True,False,True,False,False,False,False,True,False,False,True,False,False
+
+21,החרמון,1,1,1.0,גליל עליון אצבע הגליל והגולן,החרמון ומקורות הירדן,True,True,True,True,True,False,False,True,False,False,False,False,False,False,False,False,False,False
+
+22,המכתש הקטן,1,2,12.0,מרכז הנגב והמכתשים,nan,True,True,True,True,False,True,False,True,False,False,False,False,False,False,False,False,False,False
+
+23,הקניון האדום – גיא שני,1,0,2.0,דרום הנגב והרי אילת,nan,True,True,True,True,True,False,False,True,False,False,False,False,True,False,False,False,False,False
+
+24,הר ארבל - מסלולים לטיול,0,2,13.0,גליל תחתון עמקים וגלבוע,נצרת עפולה ועמק יזרעאל,True,True,True,True,True,True,False,False,False,False,False,False,False,False,False,False,False,False
+
+25,הר הרוח ושביל נוף יתלה,1,0,2.0,הרי ירושלים ואזור בית שמש,nan,True,True,True,True,True,False,False,True,False,False,False,False,False,True,True,False,False,False
+
+26,הר חרת מוצא ומאגר בית זית: שקדיות ומושבה נשכחת,1,0,5.0,הרי ירושלים ואזור בית שמש,nan,True,True,True,True,True,False,False,False,True,False,False,False,False,False,True,True,False,False
+
+27,הר כמון מכמנים ושביל יונתן,1,0,5.0,גליל תחתון עמקים וגלבוע,נצרת עפולה ועמק יזרעאל,True,True,True,True,True,False,False,True,False,False,False,False,False,True,True,False,False,False
+
+28,הר כרכום והר עריף,2,2,55.0,מרכז הנגב והמכתשים,מצפה רמון והר הנגב המערבי,True,True,True,True,False,True,False,False,False,False,False,False,False,False,False,False,True,False
+
+29,הר מסור,1,1,2.0,מרכז הנגב והמכתשים,nan,True,True,True,True,False,True,False,True,True,False,False,False,False,False,False,False,False,False
+
+30,הר שוקף ובקעת אלון – מסלול בכרמל התיכון,1,1,8.0,חיפה והכרמל,nan,True,True,True,True,False,True,False,True,False,False,False,False,False,False,True,False,False,False
+
+31,הר שלמה ונחל מפלים,0,2,11.0,דרום הנגב והרי אילת,nan,True,True,True,True,True,False,False,True,False,False,False,False,False,False,False,False,False,False
+
+32,הר תבור,1,0,3.0,גליל תחתון עמקים וגלבוע,נצרת עפולה ועמק יזרעאל,True,True,True,True,True,False,False,True,False,False,False,False,False,True,True,False,False,False
+
+33,הרי גופנא - מחרשה למעיין האוכף,1,0,3.0,שומרון,nan,True,True,True,True,True,False,False,False,False,False,False,False,False,False,False,True,False,False
+
+34,זוויתן תחתון ובריכת המשושים,0,2,6.0,גליל עליון אצבע הגליל והגולן,רמת הגולן,True,True,True,True,True,True,False,True,False,False,False,False,False,False,False,True,False,False
+
+35,חוף דור-הבונים,1,0,3.0,חיפה והכרמל,חוף הכרמל זכרון יעקב ורמות מנשה,True,True,True,True,True,False,True,True,False,False,False,False,False,False,False,True,False,False
+
+36,חורשת הארבעים ומצוק הארבעים בכרמל,0,1,1.5,חיפה והכרמל,nan,True,True,True,True,False,False,False,True,False,False,True,False,False,False,True,False,False,False
+
+37,חלמוניות ירוחם,1,1,5.0,מרכז הנגב והמכתשים,nan,True,True,True,True,True,True,False,True,True,False,False,False,False,False,True,False,False,False
+
+38,חרבת מדרס וחרבת עתרי,1,0,7.0,השפלה,ראשון לציון רחובות ונס ציונה,True,True,True,True,True,False,True,True,True,False,False,False,False,False,False,False,False,False
+
+39,טוסקנה הדרוזית: טיול בין כפרי צפון הגולן,1,2,15.0,גליל עליון אצבע הגליל והגולן,רמת הגולן,True,True,True,True,True,False,False,False,False,False,False,False,False,True,False,False,False,False
+
+40,טיול בשפלה: מסלול לחנוכה בעקבות המכבים,0,0,3.0,השפלה,ראשון לציון רחובות ונס ציונה,True,True,True,True,True,False,True,True,True,False,False,False,False,False,True,False,False,False
+
+41,יאנוח: נגיעות קטנות של יופי,1,0,1.0,גליל מערבי,צפת ורכס הרי מירון,True,True,True,True,True,False,False,True,False,False,False,True,False,False,False,False,False,False
+
+42,יד קנדי חרבת סעדים ושביל המעיינות,1,0,3.0,הרי ירושלים ואזור בית שמש,nan,True,True,True,True,True,False,False,True,True,False,False,False,False,False,False,True,False,False
+
+43,ים אל ים – טיול מחוף אכזיב לחופי הכנרת,2,2,70.0,גליל מערבי,צפת ורכס הרי מירון,True,True,True,True,False,True,False,False,False,False,False,False,True,False,False,False,True,False
+
+44,יער אודם,1,0,2.0,גליל עליון אצבע הגליל והגולן,רמת הגולן,True,True,True,True,True,False,True,True,False,False,False,False,False,False,True,False,False,False
+
+45,יער ברעם ובית הכנסת העתיק,1,0,4.0,גליל מערבי,מעלות וסביבותיה,True,True,True,True,True,False,False,True,True,False,False,False,False,False,False,False,False,False
+
+46,יער עופר - מסלול משפחות מעגלי,0,0,4.5,חיפה והכרמל,חיפה והר הכרמל,True,True,True,True,True,False,False,False,False,False,True,False,False,False,True,False,False,False
+
+47,יער קולה ובריכת צרטה,1,0,4.0,מישור החוף וגוש דן,חולון פתח תקווה וגוש דן,True,True,True,True,True,False,True,True,True,False,False,False,False,True,True,False,False,False
+
+48,מאשדוד לניצנים: טבע ומורשת קרב,0,0,5.0,צפון הנגב,אשדוד ומישור החוף הדרומי,True,True,True,True,True,False,True,True,False,False,False,False,False,False,False,True,False,False
+
+49,מבית ג'אן לחורפיש - מערות ופריחות בפסגות הגליל,0,2,8.0,גליל מערבי,צפת ורכס הרי מירון,True,True,True,True,False,True,False,False,False,False,False,False,False,False,True,False,False,False
+
+50,מבית שאן לכוכב הירדן,0,2,17.0,גליל תחתון עמקים וגלבוע,הגלבוע ועמק המעיינות,True,True,True,True,False,True,False,False,True,False,False,False,False,False,False,False,False,False
+
+51,מבצר יחיעם ונחל געתון,0,1,3.0,גליל מערבי,עכו נהריה וראש הנקרה,False,True,False,True,True,False,True,True,True,False,False,False,False,False,False,False,False,False
+
+52,מג'רסה - בקעת בית צידה,1,1,1.0,גליל תחתון עמקים וגלבוע,טבריה כנרת והעמקים,True,True,True,True,True,False,True,True,False,False,False,True,False,False,False,True,False,False
+
+53,מדרך נוף כרמל לקיבוץ יגור,0,0,4.0,חיפה והכרמל,nan,True,True,True,True,False,False,False,False,False,False,True,False,False,False,True,False,False,False
+
+54,מוחרקה נחל רקפת ומנזר הכרמליתים,0,1,8.0,חיפה והכרמל,חוף הכרמל זכרון יעקב ורמות מנשה,True,True,True,True,False,True,False,False,False,False,False,False,False,False,True,False,False,False
+
+55,מזרח הרמון: ממכתש רמון לערבה,2,2,30.0,מרכז הנגב והמכתשים,nan,True,True,True,True,False,True,False,False,False,False,False,False,True,False,False,False,True,False
+
+56,מכוכב הירדן לכפר תבור,0,2,14.0,גליל תחתון עמקים וגלבוע,נצרת עפולה ועמק יזרעאל,True,True,True,True,False,True,False,False,True,False,False,False,False,False,True,True,False,False
+
+57,מכתש רמון: המיטב,0,1,6.0,מרכז הנגב והמכתשים,nan,True,True,True,True,True,True,False,True,True,False,False,False,False,False,False,False,False,False
+
+58,ממצפה משואה לתל גודד,0,0,5.5,הרי ירושלים ואזור בית שמש,nan,True,True,True,True,True,False,False,False,True,False,True,False,False,False,True,False,False,False
+
+59,ממשית: עיר חקלאית בלב מדבר,1,0,2.0,מרכז הנגב והמכתשים,nan,True,True,True,True,True,False,True,True,False,False,False,True,False,False,False,False,False,False
+
+60,מנחל נמר אל יער חניתה,0,1,4.5,גליל מערבי,עכו נהריה וראש הנקרה,True,True,True,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False
+
+61,מסלול הפטריה בנאות הכיכר,1,0,2.0,מרכז הנגב והמכתשים,הערבה הצפונית,True,True,True,True,True,False,True,True,False,False,False,False,False,True,False,False,False,False
+
+62,מסעד לבארי: פריחה בצפון הנגב,0,0,7.0,צפון הנגב,nan,False,True,False,True,True,False,True,True,True,False,False,False,False,False,True,False,False,False
+
+63,מעיינות ברמת הגולן: לאורך דרך הפטרולים,1,0,3.0,גליל עליון אצבע הגליל והגולן,רמת הגולן,True,True,True,True,True,False,False,True,True,False,False,False,False,False,False,True,False,False
+
+64,מעיינות גבתון לתל גזר,0,0,4.0,השפלה,ראשון לציון רחובות ונס ציונה,True,True,True,True,True,True,False,True,True,False,False,False,False,False,True,False,False,False
+
+65,מעיינות גוש עציון,1,0,2.0,הרי ירושלים ואזור בית שמש,nan,True,True,True,True,True,False,False,True,False,False,False,False,False,True,False,True,False,False
+
+66,מעין מעריף להר ערקוב,1,2,10.5,מרכז הנגב והמכתשים,המכתש הגדול המכתש הקטן ומרכז הנגב,True,True,True,True,False,True,False,False,False,False,False,False,False,False,False,True,False,False
+
+67,מערת אצבע עתלית וחרבת קרתה,0,1,3.0,חיפה והכרמל,חיפה והר הכרמל,True,True,True,True,True,False,True,True,False,False,False,False,False,True,False,False,False,False
+
+68,מערת התאומים ונחל המערה,0,1,7.0,הרי ירושלים ואזור בית שמש,nan,True,True,True,True,True,True,False,True,True,False,False,False,False,False,True,False,False,False
+
+69,מערת קשת ומערת נמר,1,1,2.0,גליל מערבי,מעלות וסביבותיה,True,True,True,True,True,False,False,True,False,False,False,True,False,True,False,False,False,False
+
+70,מצדה,1,0,2.0,ים המלח ומדבר יהודה,דרום ים המלח ומדבר יהודה,True,True,True,True,True,False,True,True,False,False,False,True,True,False,False,False,False,False
+
+71,מקורות הירקון מגדל צדק ומבצר אנטיפטרוס,0,0,3.0,מישור החוף וגוש דן,חולון פתח תקווה וגוש דן,True,True,True,True,True,False,True,True,True,False,False,True,False,True,True,False,False,False
+
+72,מרמות נפתלי לעין אווזים,1,0,5.0,גליל עליון אצבע הגליל והגולן,אצבע הגליל - מראש פינה ועד מטולה,True,True,True,True,True,True,True,False,False,False,False,False,False,False,True,False,False,False
+
+73,מתל אכזיב לראש הנקרה,1,0,6.0,גליל מערבי,עכו נהריה וראש הנקרה,True,True,True,True,True,False,True,False,True,False,False,False,False,False,False,True,False,False
+
+74,נחל  פצאל ויובליו,0,1,10.0,שומרון,nan,True,True,True,True,False,True,False,False,False,False,False,False,False,False,False,True,False,False
+
+75,נחל spring ונחל דישון,1,0,4.0,גליל מערבי,מעלות וסביבותיה,True,True,True,True,True,True,False,False,True,False,False,False,False,False,True,False,False,False
+
+76,נחל אוג למשפחות,1,1,3.0,ים המלח ומדבר יהודה,צפון ים המלח,True,True,True,True,True,True,False,False,False,False,False,False,True,False,False,False,False,False
+
+77,נחל אורן - ממחצבות קדומים לחניון האגם,1,0,2.0,חיפה והכרמל,חיפה והר הכרמל,True,True,True,True,True,False,True,False,True,False,False,False,False,False,True,True,False,False
+
+78,נחל אל על: מים בין בזלת לגיר,0,1,6.0,גליל עליון אצבע הגליל והגולן,רמת הגולן,True,True,True,True,True,True,False,True,False,False,False,False,False,False,False,True,False,False
+
+79,נחל אלכסנדר והצבים הרכים,1,0,3.0,השרון,חדרה וקיסריה,True,True,True,True,True,False,True,False,True,False,False,True,True,False,True,True,False,False
+
+80,נחל אשלים ונחל עזגד: מסע בין גבי מים,0,2,10.0,ים המלח ומדבר יהודה,דרום ים המלח ומדבר יהודה,True,True,True,True,False,True,False,True,False,False,False,False,False,False,False,True,False,False
+
+81,נחל ברק והר כיפה,1,1,4.0,מרכז הנגב והמכתשים,nan,True,True,True,True,True,True,False,True,False,False,False,False,False,False,False,True,False,False
+
+82,נחל ג'ילבון,1,1,3.0,גליל עליון אצבע הגליל והגולן,רמת הגולן,True,True,False,True,False,True,False,True,False,False,False,False,False,False,True,True,False,False
+
+83,נחל גוב ומעלה עקרבים,0,1,8.0,מרכז הנגב והמכתשים,nan,True,True,True,True,False,True,False,True,False,False,False,False,False,False,False,True,False,False
+
+84,נחל גוש חלב,1,0,5.0,גליל מערבי,מעלות וסביבותיה,True,True,True,True,True,False,True,False,True,False,False,False,False,False,True,True,False,False
+
+85,נחל גשרון עליון,0,0,3.0,דרום הנגב והרי אילת,nan,True,True,True,True,True,False,False,True,False,False,False,False,False,False,False,False,False,False
+
+86,נחל דולב ועין פירים,0,1,9.0,הרי ירושלים ואזור בית שמש,nan,True,True,True,True,True,False,False,True,True,False,False,False,False,False,True,True,False,False
+
+87,נחל דרגה - נחל מורבעת,1,2,7.0,ים המלח ומדבר יהודה,צפון ים המלח,False,True,False,True,False,True,False,False,False,False,False,False,True,False,False,True,False,False
+
+88,נחל הבשור ופארק אשכול,0,0,14.0,צפון הנגב,אשקלון וסביבותיה,True,True,True,True,True,False,True,True,True,False,False,False,False,True,True,True,False,False
+
+89,נחל הקיבוצים הגלבוע ונחל יצפור,1,1,5.0,גליל תחתון עמקים וגלבוע,הגלבוע ועמק המעיינות,True,True,True,True,True,False,False,False,False,False,False,False,False,False,True,True,False,False
+
+90,נחל השופט,0,0,2.0,חיפה והכרמל,חוף הכרמל זכרון יעקב ורמות מנשה,True,True,True,True,True,False,True,True,True,False,False,True,False,True,True,True,False,False
+
+91,נחל חווארים: טיול לילה בירח מלא,1,0,3.0,מרכז הנגב והמכתשים,nan,True,True,True,True,True,False,True,False,False,False,False,False,True,False,False,False,False,False
+
+92,נחל חזורי גובתה ומבצר נמרוד,0,1,5.0,גליל עליון אצבע הגליל והגולן,החרמון ומקורות הירדן,True,True,True,True,True,True,False,True,False,False,False,False,False,False,False,False,False,False
+
+93,נחל חלילים ועינות תלם,1,0,3.0,הרי ירושלים ואזור בית שמש,nan,True,True,True,True,True,False,True,False,False,False,False,False,True,False,True,True,False,False
+
+94,נחל חצץ ופריחת הנרקיסים,1,1,8.0,מרכז הנגב והמכתשים,nan,False,True,False,True,True,True,False,False,True,False,False,False,False,True,True,False,False,False
+
+95,נחל יגור,0,1,9.0,חיפה והכרמל,חיפה והר הכרמל,True,True,True,True,False,True,False,True,False,False,False,False,False,False,True,False,False,False
+
+96,נחל יהודיה,1,1,3.0,גליל עליון אצבע הגליל והגולן,רמת הגולן,True,True,True,True,True,True,True,True,False,False,False,False,True,False,False,True,False,False
+
+97,נחל יחיעם,0,0,4.5,גליל מערבי,עכו נהריה וראש הנקרה,True,True,True,True,True,False,False,False,False,False,True,False,False,False,True,False,False,False
+
+98,"נחל ימין ונחל חתירה – בעקבות סיירי הפלמ""ח",1,1,9.0,מרכז הנגב והמכתשים,המכתש הגדול המכתש הקטן ומרכז הנגב,True,True,True,True,False,True,False,False,False,False,False,False,False,False,False,True,False,False
+
+99,נחל כזיב,0,1,8.0,גליל מערבי,מעלות וסביבותיה,True,True,True,True,True,True,False,True,False,False,False,False,True,True,False,True,False,False
+
+100,נחל כרמילה ונחל כסלון,1,1,6.0,הרי ירושלים ואזור בית שמש,nan,True,True,True,True,True,True,False,True,False,False,False,False,False,True,True,False,False,False
+
+101,נחל לוטם וגן החיות הלימודי בחיפה,1,0,3.0,חיפה והכרמל,חיפה והר הכרמל,True,True,True,True,True,False,True,False,False,True,False,False,True,True,True,False,False,False
+
+102,נחל מיצר,1,1,6.0,גליל עליון אצבע הגליל והגולן,רמת הגולן,True,True,True,True,True,True,False,False,False,False,False,False,False,False,True,False,False,False
+
+103,נחל מערות: טיול אל מערות הכרמל,1,0,3.0,חיפה והכרמל,חיפה והר הכרמל,True,True,True,True,True,True,False,True,False,False,False,False,True,False,True,False,False,False
+
+104,נחל משמר,0,2,9.0,ים המלח ומדבר יהודה,דרום ים המלח ומדבר יהודה,True,True,True,True,False,True,False,True,False,False,False,False,False,False,False,True,False,False
+
+105,נחל סער ומפל סער,1,1,3.0,גליל עליון אצבע הגליל והגולן,החרמון ומקורות הירדן,True,True,True,True,True,True,False,False,False,False,False,False,False,False,True,True,False,False
+
+106,נחל ספונים,1,1,4.0,חיפה והכרמל,חיפה והר הכרמל,True,True,True,True,True,True,False,True,False,False,False,False,False,False,True,False,False,False
+
+107,נחל עורבים,0,1,6.0,גליל עליון אצבע הגליל והגולן,רמת הגולן,True,True,True,True,True,True,False,False,False,False,False,False,False,False,True,False,False,False
+
+108,נחל עיון ומפל התנור,1,0,3.0,גליל עליון אצבע הגליל והגולן,אצבע הגליל - מראש פינה ועד מטולה,True,True,True,True,True,True,False,False,False,False,False,False,False,False,True,True,False,False
+
+109,נחל עמוד עליון ונחל מירון,1,1,3.0,גליל מערבי,צפת ורכס הרי מירון,True,True,True,True,True,False,False,True,False,False,False,False,False,False,True,True,False,False
+
+110,נחל עקרבים,0,2,8.0,מרכז הנגב והמכתשים,המכתש הגדול המכתש הקטן ומרכז הנגב,True,True,True,True,False,True,False,False,False,False,False,False,False,False,False,True,False,False
+
+111,נחל פרס תחתון,0,1,6.0,ים המלח ומדבר יהודה,דרום ים המלח ומדבר יהודה,True,True,True,True,False,True,False,True,False,False,False,False,False,True,False,False,False,False
+
+112,נחל פרצים והר סדום - טיול יום ולילה,0,0,8.0,ים המלח ומדבר יהודה,דרום ים המלח ומדבר יהודה,True,True,True,True,True,False,False,False,True,False,False,False,False,True,False,False,False,False
+
+113,נחל צאלים וברכת צפירה,0,2,12.0,ים המלח ומדבר יהודה,דרום ים המלח ומדבר יהודה,True,True,True,True,False,True,False,True,False,False,False,False,False,False,True,True,True,False
+
+114,נחל צביה,1,1,7.5,גליל תחתון עמקים וגלבוע,הגלבוע ועמק המעיינות,False,False,False,True,False,True,True,False,False,False,False,False,False,False,True,False,False,False
+
+115,נחל ציפורי,1,0,4.0,גליל תחתון עמקים וגלבוע,נצרת עפולה ועמק יזרעאל,True,True,True,True,True,False,True,True,True,False,False,False,False,True,True,True,False,False
+
+116,נחל צלמון,1,0,2.0,גליל מערבי,צפת ורכס הרי מירון,True,True,True,True,True,False,True,True,True,False,False,False,False,True,False,True,False,False
+
+117,נחל קדש,1,1,3.0,גליל עליון אצבע הגליל והגולן,אצבע הגליל - מראש פינה ועד מטולה,True,True,True,True,True,True,False,False,False,False,False,False,True,False,False,False,False,False
+
+118,נחל קטלב ומערת הנטיפים,1,1,5.0,הרי ירושלים ואזור בית שמש,nan,True,True,True,True,True,True,False,False,False,False,False,False,True,False,True,False,False,False
+
+119,נחל קינה,0,1,9.5,ים המלח ומדבר יהודה,דרום ים המלח ומדבר יהודה,True,True,True,True,False,True,False,True,False,False,False,False,False,False,False,True,False,False
+
+120,נחל קנה – בוסתנים ומעיינות בלב השומרון,1,1,5.0,שומרון,nan,True,True,True,True,True,False,False,False,False,False,False,False,False,False,False,True,False,False
+
+121,נחל ראש פינה,0,0,3.5,גליל עליון אצבע הגליל והגולן,אצבע הגליל - מראש פינה ועד מטולה,True,True,True,True,True,False,False,False,False,False,True,False,False,False,False,True,False,False
+
+122,נחל שיח,1,0,2.0,חיפה והכרמל,חיפה והר הכרמל,True,True,True,True,True,False,True,False,False,True,False,False,True,True,False,True,False,False
+
+123,נחל שניר-חצבני: מסלול בנחל חוצה גבולות,1,0,2.0,גליל עליון אצבע הגליל והגולן,החרמון ומקורות הירדן,True,True,True,True,True,False,True,True,False,False,False,True,False,False,False,True,False,False
+
+124,נחל שרך ונחל בצת,1,1,5.0,גליל מערבי,מעלות וסביבותיה,True,True,True,True,True,True,False,False,False,False,False,False,False,True,True,True,False,False
+
+125,נחל תבור,1,1,8.0,גליל תחתון עמקים וגלבוע,נצרת עפולה ועמק יזרעאל,True,True,True,True,True,True,False,True,False,False,False,False,False,False,True,True,False,False
+
+126,נחל תמר-צפית: אתגר בשטח בדרום ים המלח,1,1,3.0,ים המלח ומדבר יהודה,דרום ים המלח ומדבר יהודה,True,True,True,True,True,True,False,True,False,False,False,False,False,False,False,False,False,False
+
+127,נחל תנינים,1,0,2.0,חיפה והכרמל,חוף הכרמל זכרון יעקב ורמות מנשה,True,True,True,True,True,False,True,True,False,False,False,True,False,False,True,True,False,False
+
+128,ניצנה - העיר הנבטית והסביבה,0,0,3.0,צפון הנגב,באר שבע וחבל ניצנה,True,True,True,True,True,False,False,True,True,False,False,False,False,True,False,False,False,False
+
+129,סיור ברובע היהודי,1,0,3.0,ירושלים,nan,True,True,True,True,True,False,False,True,False,True,False,False,True,True,False,False,False,False
+
+130,עין אפק,1,0,1.0,גליל מערבי,עכו נהריה וראש הנקרה,True,True,True,True,True,False,True,True,False,False,False,True,False,False,True,False,False,False
+
+131,עין בוקק נחל בוקק וצוק תמרור,0,1,10.0,ים המלח ומדבר יהודה,דרום ים המלח ומדבר יהודה,True,True,True,True,True,True,False,False,False,False,False,False,False,False,False,True,False,False
+
+132,עין גדי ונחל ערוגות,0,1,8.0,ים המלח ומדבר יהודה,דרום ים המלח ומדבר יהודה,True,True,True,True,True,False,True,True,False,False,False,False,True,False,False,True,False,False
+
+133,עין מבוע נחל פרת - ואדי קלט,0,1,7.0,ים המלח ומדבר יהודה,צפון ים המלח,True,True,True,True,True,True,False,True,False,False,False,False,True,True,False,True,False,False
+
+134,עין מטע חרבת חנות ושביל הקיסר,1,1,5.0,הרי ירושלים ואזור בית שמש,nan,True,True,True,True,True,False,True,True,True,False,False,False,False,True,True,True,False,False
+
+135,עין עבדת ועיר הנבטים עבדת,1,0,3.0,מרכז הנגב והמכתשים,מצפה רמון והר הנגב המערבי,True,True,True,True,True,False,True,True,False,False,False,False,False,False,False,False,False,False
+
+136,עין עקב חוד עקב ומעלה דבשון,0,1,16.0,מרכז הנגב והמכתשים,מצפה רמון והר הנגב המערבי,True,True,True,True,False,True,False,True,False,False,False,False,False,True,False,True,False,False
+
+137,עין שרונה ובקעת יבניאל,1,0,3.0,גליל תחתון עמקים וגלבוע,נצרת עפולה ועמק יזרעאל,True,True,True,True,True,False,True,True,False,False,False,False,False,False,False,True,False,False
+
+138,עינות צוקים וקומראן,0,1,6.0,ים המלח ומדבר יהודה,צפון ים המלח,True,True,True,True,True,True,True,True,False,False,False,True,False,False,False,True,False,False
+
+139,עמק החולה,1,0,2.0,גליל עליון אצבע הגליל והגולן,אצבע הגליל - מראש פינה ועד מטולה,True,True,True,True,True,False,True,True,False,False,False,True,False,False,False,False,False,False
+
+140,פארק בריטניה: מסלול הבורות והבארות,1,1,3.0,השפלה,ראשון לציון רחובות ונס ציונה,True,True,True,True,True,False,False,True,True,False,False,False,False,True,True,False,False,False
+
+141,פארק השרון ויער חדרה,1,1,6.0,השרון,חדרה וקיסריה,False,True,False,True,True,False,True,False,True,False,False,False,False,False,True,False,False,False
+
+142,פארק קנדה לטרון (עמק איילון),0,0,4.0,השפלה,ראשון לציון רחובות ונס ציונה,True,True,True,True,True,False,True,True,True,False,False,False,False,True,False,False,False,False
+
+143,צובה והסטף - טיול בהרי ירושלים,0,1,2.0,הרי ירושלים ואזור בית שמש,nan,True,True,True,True,True,False,True,True,False,False,False,False,False,False,False,True,False,False
+
+144,קטע מספר 1: מקופות החרמון לתל קצעה,1,1,14.0,גליל עליון אצבע הגליל והגולן,רמת הגולן,True,True,True,True,False,True,False,False,False,False,False,False,False,False,False,False,True,False
+
+145,קטע מספר 1: מקיבוץ דן לקיבוץ כפר גלעדי,0,0,14.0,גליל עליון אצבע הגליל והגולן,החרמון ומקורות הירדן,True,True,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+
+146,קטע מספר 10: מאלון הגליל לקיבוץ יגור,0,1,24.0,גליל תחתון עמקים וגלבוע,נצרת עפולה ועמק יזרעאל,True,True,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+
+147,קטע מספר 11: מקיבוץ יגור לעין הוד,0,2,21.0,חיפה והכרמל,חיפה והר הכרמל,True,True,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+
+148,קטע מספר 12: מעין הוד לרמת הנדיב,0,1,28.0,חיפה והכרמל,חוף הכרמל זכרון יעקב ורמות מנשה,True,True,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+
+149,קטע מספר 13: מרמת הנדיב לחדרה,0,1,23.0,חיפה והכרמל,חוף הכרמל זכרון יעקב ורמות מנשה,True,True,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+
+150,קטע מספר 14: מחדרה לחוף פולג,0,2,24.5,השרון,הרצליה ונתניה,True,True,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+
+151,קטע מספר 15: מחוף פולג לתל spring,0,0,21.5,השרון,הרצליה ונתניה,True,True,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+
+152,קטע מספר 16: מתל spring לכפר סירקין,0,0,30.0,מישור החוף וגוש דן,חולון פתח תקווה וגוש דן,True,True,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+
+153,קטע מספר 17: מכפר סירקין לגמזו,0,2,24.5,צפון הנגב,אשדוד ומישור החוף הדרומי,True,True,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+
+154,קטע מספר 18: מגמזו למסילת ציון,0,0,25.0,השפלה,ראשון לציון רחובות ונס ציונה,True,True,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+
+155,קטע מספר 19: ממסילת ציון לקיבוץ צובה,0,1,20.0,הרי ירושלים ואזור בית שמש,nan,True,True,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+
+156,קטע מספר 2: מכפר גלעדי למושב רמות נפתלי,0,1,22.0,גליל עליון אצבע הגליל והגולן,אצבע הגליל - מראש פינה ועד מטולה,True,True,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+
+157,קטע מספר 2: מתל קצעה לבאב אל הווא,1,1,16.0,גליל עליון אצבע הגליל והגולן,רמת הגולן,True,True,True,True,False,True,False,False,False,False,False,False,False,False,False,False,True,False
+
+158,קטע מספר 20: מקיבוץ צובה לצור הדסה,0,2,18.5,הרי ירושלים ואזור בית שמש,nan,True,True,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+
+159,קטע מספר 21: מצור הדסה לנתיב הל''ה,0,2,16.0,הרי ירושלים ואזור בית שמש,nan,True,True,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+
+160,קטע מספר 22: מנתיב הל''ה לבית גוברין,0,2,23.5,השפלה,ראשון לציון רחובות ונס ציונה,True,True,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+
+161,קטע מספר 23: מבית גוברין לתל קשת,0,0,22.5,השפלה,ראשון לציון רחובות ונס ציונה,True,True,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+
+162,קטע מספר 24: מתל קשת לקיבוץ דבירה,0,0,26.5,השפלה,ראשון לציון רחובות ונס ציונה,True,True,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+
+163,קטע מספר 25: מקיבוץ דבירה למיתר,0,0,20.0,צפון הנגב,nan,True,True,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+
+164,קטע מספר 26: ממיתר להר עמשא,0,0,22.0,ים המלח ומדבר יהודה,דרום ים המלח ומדבר יהודה,True,True,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+
+165,קטע מספר 27: מהר עמשא לערד,0,1,22.5,ים המלח ומדבר יהודה,דרום ים המלח ומדבר יהודה,True,True,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+
+166,קטע מספר 28: מערד לחניון באר אפעה,0,1,23.0,ים המלח ומדבר יהודה,דרום ים המלח ומדבר יהודה,True,True,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+
+167,קטע מספר 29: מבאר אפעה לחניון מצד תמר,0,0,18.0,מרכז הנגב והמכתשים,nan,True,True,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+
+168,קטע מספר 3: מבאב אל-הווא להר חוזק,1,1,18.0,גליל עליון אצבע הגליל והגולן,רמת הגולן,True,True,True,True,False,True,False,False,False,False,False,False,False,False,False,False,True,False
+
+169,קטע מספר 3: ממושב רמות נפתלי לקיבוץ ברעם,0,2,25.0,גליל מערבי,מעלות וסביבותיה,True,True,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+
+170,קטע מספר 30: מחניון מצד תמר למכתש הקטן,0,2,19.0,מרכז הנגב והמכתשים,nan,True,True,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+
+171,קטע מספר 31: מהמכתש הקטן לחניון מפעל אורון,0,1,20.0,מרכז הנגב והמכתשים,nan,True,True,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+
+172,קטע מספר 32: ממפעל אורון לחניון נחל מדור,0,2,19.5,מרכז הנגב והמכתשים,nan,True,True,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+
+173,קטע מספר 33: מחניון מדור/עפרן לחוד עקב,0,0,13.0,מרכז הנגב והמכתשים,nan,True,True,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+
+174,קטע מספר 34: מחוד עקב לחניון נחל חווה,0,1,22.5,מרכז הנגב והמכתשים,nan,True,True,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+
+175,קטע מספר 35: מחניון נחל חווה למצפה רמון,0,1,27.0,מרכז הנגב והמכתשים,nan,True,True,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+
+176,קטע מספר 36: ממצפה רמון לחניון הר סהרונים,0,1,22.5,מרכז הנגב והמכתשים,nan,True,True,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+
+177,קטע מספר 37: מהר סהרונים לחניון גב חולית,0,2,18.5,מרכז הנגב והמכתשים,nan,True,True,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+
+178,קטע מספר 38: מחניון גב חולית למושב צופר,0,1,27.5,דרום הנגב והרי אילת,nan,True,True,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+
+179,קטע מספר 39: ממושב צופר לחניון נחל ברק,0,1,26.0,דרום הנגב והרי אילת,nan,True,True,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+
+180,קטע מספר 4: מהר חוזק לאום א-דנניר,1,0,17.0,גליל עליון אצבע הגליל והגולן,רמת הגולן,True,True,True,True,False,True,False,False,False,False,False,False,False,False,False,False,True,False
+
+181,קטע מספר 4: מקיבוץ ברעם לחניון נחל עמוד,0,2,23.0,גליל מערבי,מעלות וסביבותיה,True,True,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+
+182,קטע מספר 40: מחניון נחל ברק לצומת ציחור,1,2,29.5,דרום הנגב והרי אילת,nan,True,True,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+
+183,קטע מספר 41: מצומת ציחור לצומת שיזפון,1,2,27.0,דרום הנגב והרי אילת,nan,True,True,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+
+184,קטע מספר 42: מצומת שיזפון לשחרות,0,0,23.0,דרום הנגב והרי אילת,nan,True,True,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+
+185,קטע מספר 43: משחרות לחניון נחל מנגן,0,2,24.0,דרום הנגב והרי אילת,nan,True,True,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+
+186,קטע מספר 44: מנחל מנגן לנחל רחם/עתק,0,1,16.5,דרום הנגב והרי אילת,nan,True,True,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+
+187,קטע מספר 45: מנחל רחם/עתק להר יהורם,2,2,24.5,דרום הנגב והרי אילת,nan,True,True,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+
+188,קטע מספר 46: מחניון הר יהורם לאילת,0,2,14.0,דרום הנגב והרי אילת,אילת והרי אילת ,True,True,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+
+189,קטע מספר 5: מאום א-דנניר לאום אל-קאנטיר,1,0,19.0,גליל עליון אצבע הגליל והגולן,רמת הגולן,True,True,True,True,False,True,False,False,False,False,False,False,False,False,False,False,True,False
+
+190,קטע מספר 5: מחניון נחל עמוד לעין נון,0,2,21.0,גליל מערבי,צפת ורכס הרי מירון,True,True,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+
+191,קטע מספר 6: מאום אל-קאנטיר לאמפי גולן,1,2,21.9,גליל עליון אצבע הגליל והגולן,nan,True,True,True,True,False,True,False,False,False,False,False,False,False,False,False,False,True,False
+
+192,קטע מספר 6: מעין נון לכנרת מושבה,0,1,25.0,גליל תחתון עמקים וגלבוע,טבריה כנרת והעמקים,True,True,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+
+193,קטע מספר 7: מאמפי גולן לעין תאופיק,1,1,15.0,גליל עליון אצבע הגליל והגולן,רמת הגולן,True,True,True,True,False,True,False,False,False,False,False,False,False,False,False,False,True,False
+
+194,קטע מספר 7: מכנרת מושבה לכפר קיש,0,1,25.0,גליל תחתון עמקים וגלבוע,נצרת עפולה ועמק יזרעאל,True,True,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+
+195,קטע מספר 8: מכפר קיש להר יונה,0,2,22.0,גליל תחתון עמקים וגלבוע,נצרת עפולה ועמק יזרעאל,True,True,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+
+196,קטע מספר 9: מהר יונה לאלון הגליל,0,1,15.0,גליל תחתון עמקים וגלבוע,נצרת עפולה ועמק יזרעאל,True,True,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+
+197,קיסריה - הגן הלאומי עירו של הורדוס,1,0,2.0,השרון,חדרה וקיסריה,True,True,True,True,True,False,True,True,False,False,False,True,False,False,False,False,False,False
+
+198,קניון ורדית ונחל אוביל,0,2,16.0,מרכז הנגב והמכתשים,nan,True,True,True,True,False,True,False,False,False,False,False,False,False,False,False,True,True,False
+
+199,קצרין ונחל זוויתן עליון,0,1,8.0,גליל עליון אצבע הגליל והגולן,רמת הגולן,True,True,True,True,True,True,False,True,False,False,False,False,False,False,False,True,False,False
+
+200,רכס בשנית: פריחת החלמונית והסתוונית,1,0,4.0,גליל עליון אצבע הגליל והגולן,רמת הגולן,True,True,True,True,True,False,False,False,True,False,False,False,False,False,True,False,False,False
+
+201,רכס הררית מבדד נטופה ועצי זית ענקיים,1,1,3.0,גליל מערבי,צפת ורכס הרי מירון,True,True,True,True,True,False,True,False,True,False,False,False,False,False,False,False,False,False
+
+202,רמת הנדיב,1,0,5.0,חיפה והכרמל,חוף הכרמל זכרון יעקב ורמות מנשה,True,True,True,True,True,False,True,True,True,False,False,True,True,False,False,False,False,False
+
+203,שבטה - עיר נבטית בלב המדבר,1,0,2.0,צפון הנגב,nan,True,True,True,True,True,False,True,True,True,False,False,False,False,False,False,False,False,False
+
+204,שביל המטוס סובב איתנים,0,0,1.5,הרי ירושלים ואזור בית שמש,nan,True,True,True,True,True,False,False,True,False,False,True,False,False,False,True,False,False,False
+
+205,שביל ירושלים,2,0,40.0,ירושלים,nan,True,True,True,True,True,False,False,False,False,True,False,False,True,False,False,False,False,False
+
+206,שביל סובב כנרת: מסלול סביב מקור מים חיים,1,0,35.0,גליל תחתון עמקים וגלבוע,טבריה כנרת והעמקים,True,True,True,True,True,False,True,True,False,False,False,False,False,True,False,True,False,False
+
+207,שוויצריה הקטנה: נחלי כלח ונחל גלים,0,1,8.0,חיפה והכרמל,חיפה והר הכרמל,True,True,True,True,True,True,False,True,False,False,False,False,True,True,False,True,False,False
+
+208,שלוחת איילה ונחל שמרי,1,0,4.0,חיפה והכרמל,חוף הכרמל זכרון יעקב ורמות מנשה,True,True,True,True,True,False,True,True,True,False,False,False,False,True,True,True,False,False
+
+209,שמורת האירוס הנצרתי ,0,0,0.6,גליל תחתון עמקים וגלבוע,נצרת עפולה ועמק יזרעאל,True,True,True,True,True,False,False,False,False,False,True,True,False,False,True,False,False,False
+
+210,שמורת הר מירון,0,2,10.0,גליל מערבי,צפת ורכס הרי מירון,True,True,True,True,False,True,False,True,False,False,False,False,False,False,True,False,False,False
+
+211,שמורת זיתא ותל זרור,1,0,6.0,השרון,חדרה וקיסריה,True,True,True,True,True,False,False,True,False,False,False,False,True,True,False,False,False,False
+
+212,שמורת חוף השרון,1,0,2.0,השרון,הרצליה ונתניה,True,True,True,True,True,False,True,True,False,False,False,False,False,False,True,True,False,False
+
+213,שמורת יקום,1,0,3.0,השרון,הרצליה ונתניה,True,True,True,True,True,False,True,True,False,False,False,False,True,True,True,False,False,False
+
+214,שמורת נוב: מרבדים של נרקיסים ואירוס הביצות,1,0,1.0,גליל עליון אצבע הגליל והגולן,רמת הגולן,True,True,True,True,True,False,True,True,False,False,False,True,True,False,True,False,False,False
+
+215,שמורת פורה ותל נג'ילה,1,0,6.0,צפון הנגב,nan,True,True,True,True,True,False,True,True,True,False,False,False,False,False,True,False,False,False
+
+216,שפך נחל שורק וחוף פלמחים,1,1,5.0,מישור החוף וגוש דן,חולון פתח תקווה וגוש דן,True,True,True,True,True,False,True,False,False,False,False,False,False,True,False,True,False,False
+
+217,תל ארשף - אפולוניה,0,0,2.0,השרון,הרצליה ונתניה,True,True,True,True,True,False,True,True,True,False,False,True,False,True,False,False,False,False
+
+218,תל יודפת והר עצמון,0,1,6.0,גליל תחתון עמקים וגלבוע,נצרת עפולה ועמק יזרעאל,True,True,True,True,True,True,False,True,False,False,False,True,False,False,True,False,False,False
+

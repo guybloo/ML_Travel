@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    tools:context=".Result_item">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:gravity="center_horizontal"
+        android:orientation="vertical"
+        tools:ignore="MissingConstraints">
+
+        <TextView
+            android:id="@+id/result_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:textAlignment="center"
+            android:layout_marginTop="10dp"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:text="נחל פצאל היפה"
+            android:textColor="@color/colorPrimary"/>
+
+        <TextView
+            android:id="@+id/result_area"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:textAlignment="center"
+            android:layout_marginTop="10dp"
+            android:textSize="15sp"
+            android:textStyle="bold"
+            android:text="בקעת הירדן"
+            android:textColor="@color/colorPrimary"/>
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:id="@+id/result_info">
+
+            <TextView
+                android:id="@+id/result_place"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:textAlignment="center"
+                android:layout_marginTop="10dp"
+                android:textSize="15sp"
+                android:textStyle="bold"
+                android:text="מושב פצאל כפרעליו"
+                android:textColor="@color/colorPrimary"/>
+
+            <TextView
+                android:id="@+id/result_more_info"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:textAlignment="center"
+                android:layout_margin="3dp"
+                android:textSize="15sp"
+                android:textStyle="bold"
+                android:text="חצי יום - 4 קמ - קשה"
+                android:textColor="@color/colorPrimary"/>
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:layout_gravity="center_horizontal">
+
+                <net.steamcrafted.materialiconlib.MaterialIconView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    app:materialIcon="pool"
+                    app:materialIconSize="24dp"
+                    app:materialIconColor="@color/colorAccent"
+                    android:scaleType="center"
+                    android:padding="2dp"
+                    android:id="@+id/r_water" />
+                <net.steamcrafted.materialiconlib.MaterialIconView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    app:materialIcon="wheelchair_accessibility"
+                    app:materialIconSize="24dp"
+                    app:materialIconColor="@color/colorAccent"
+                    android:scaleType="center"
+                    android:padding="2dp"
+                    android:id="@+id/r_accessible" />
+                <net.steamcrafted.materialiconlib.MaterialIconView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    app:materialIcon="human_male_female"
+                    app:materialIconSize="24dp"
+                    app:materialIconColor="@color/colorAccent"
+                    android:scaleType="center"
+                    android:padding="2dp"
+                    android:id="@+id/r_families" />
+
+                <net.steamcrafted.materialiconlib.MaterialIconView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    app:materialIcon="heart"
+                    app:materialIconColor="@color/colorAccent"
+                    app:materialIconSize="24dp"
+                    android:scaleType="center"
+                    android:padding="2dp"
+                    android:id="@+id/r_heart" />
+                <net.steamcrafted.materialiconlib.MaterialIconView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    app:materialIcon="walk"
+                    app:materialIconSize="24dp"
+                    app:materialIconColor="@color/colorAccent"
+                    android:scaleType="center"
+                    android:padding="2dp"
+                    android:id="@+id/r_walk" />
+                <net.steamcrafted.materialiconlib.MaterialIconView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    app:materialIcon="sync"
+                    app:materialIconSize="24dp"
+                    app:materialIconColor="@color/colorAccent"
+                    android:scaleType="center"
+                    android:padding="2dp"
+                    android:id="@+id/r_circle" />
+                <net.steamcrafted.materialiconlib.MaterialIconView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    app:materialIcon="bike"
+                    app:materialIconSize="24dp"
+                    android:scaleType="center"
+                    app:materialIconColor="@color/colorAccent"
+                    android:padding="2dp"
+                    android:id="@+id/r_bicycle" />
+                <net.steamcrafted.materialiconlib.MaterialIconView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    app:materialIcon="city"
+                    app:materialIconSize="24dp"
+                    android:scaleType="center"
+                    app:materialIconColor="@color/colorAccent"
+                    android:padding="2dp"
+                    android:id="@+id/r_city" />
+                <net.steamcrafted.materialiconlib.MaterialIconView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    app:materialIcon="nature"
+                    app:materialIconSize="24dp"
+                    app:materialIconColor="@color/colorAccent"
+                    android:scaleType="center"
+                    android:padding="2dp"
+                    android:id="@+id/r_nature" />
+                <net.steamcrafted.materialiconlib.MaterialIconView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    app:materialIcon="flower"
+                    app:materialIconSize="24dp"
+                    android:scaleType="center"
+                    app:materialIconColor="@color/colorAccent"
+                    android:padding="2dp"
+                    android:id="@+id/r_flower" />
+                <net.steamcrafted.materialiconlib.MaterialIconView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    app:materialIcon="cat"
+                    app:materialIconSize="24dp"
+                    app:materialIconColor="@color/colorAccent"
+                    android:scaleType="center"
+                    android:padding="2dp"
+                    android:id="@+id/r_dogs" />
+                <net.steamcrafted.materialiconlib.MaterialIconView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    app:materialIcon="briefcase"
+                    app:materialIconSize="24dp"
+                    android:scaleType="center"
+                    app:materialIconColor="@color/colorAccent"
+                    android:padding="2dp"
+                    android:id="@+id/r_bigbag" />
+                <net.steamcrafted.materialiconlib.MaterialIconView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    app:materialIcon="bus"
+                    app:materialIconSize="24dp"
+                    app:materialIconColor="@color/colorAccent"
+                    android:scaleType="center"
+                    android:padding="2dp"
+                    android:id="@+id/r_public_transport" />
+
+            </LinearLayout>
+        </LinearLayout>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="2dp"
+            android:background="@android:color/darker_gray"
+            android:backgroundTint="@color/colorPrimary"
+            android:layout_margin="10dp"/>
+
+
+    </LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

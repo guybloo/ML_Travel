@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">מסלולים שתותחים אוהבים</string>
+    <string name="first_rating_title">ברוך הבא יא תותח</string>
+    <string name="results_title">את זה בדוק תאהב</string>
+    <string name="first_rating_sub">שפוך שפוך מה עשית</string>
+    <string name="first_rating_submit">סלמתאק</string>
+    <string name="new_try">קום והתהלך בארץ..</string>
+    <string name="search">רק מה שמתאים לך</string>
+    <string name="all">וואלה לא בררן</string>
+    <string name="title_activity_nevigation_ml">Nevigation_ml</string>
+    <string name="title_all">לא בררן</string>
+    <string name="title_search">מה שבא לי</string>
+    <string name="title_now">עכשיו יוצא</string>
+</resources>
